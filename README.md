@@ -3,7 +3,6 @@
 
 - 🍻 Jiahao at 🇺🇸,Major is computational science
 - ⚡ Like Java
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
 - ✍️ [Blogger](https://jiahao-sandy.vercel.app/)
  
 
